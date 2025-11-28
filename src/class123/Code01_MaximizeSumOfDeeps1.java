@@ -106,5 +106,4 @@ public class Code01_MaximizeSumOfDeeps1 {
 		out.close();
 		br.close();
 	}
-
 }
